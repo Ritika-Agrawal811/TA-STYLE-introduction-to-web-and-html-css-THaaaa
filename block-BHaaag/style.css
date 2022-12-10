@@ -1,0 +1,32 @@
+body {
+  font-family: sans-serif;
+  background-color: #22396a;
+  color: #fff;
+  padding-left: 2em;
+}
+
+h1 {
+  font-size: 42px;
+}
+
+h2 {
+  font-size: 28px;
+  color: #31bb66;
+  margin: 2em 0 1em 0;
+}
+
+h3 {
+  font-size: 22px;
+  margin: 2em 0 1em 0;
+}
+
+a {
+  color: #f9234d;
+}
+
+strong {
+  display: block;
+}
+a {
+  margin-right: 1em;
+}
